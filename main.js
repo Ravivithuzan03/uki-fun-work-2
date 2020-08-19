@@ -4,7 +4,7 @@ SC.initialize({
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/34580939',function(sound){
+    SC.stream('/tracks/95903444',function(sound){
         //function start
         $('#mariyan').click(function(e) {
             e.preventDefault();
@@ -13,20 +13,16 @@ SC.initialize({
           //function stop
           $('#mariyan3').click(function(e) {
             e.preventDefault();
-            sound.stop();
+            sound.stop()
           });
- 
- 
-     });
+       });
    });   
 
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
+  
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/63137286',function(sound){
+    SC.stream('/tracks/228912781',function(sound){
         //function start
         $('#i').click(function(e) {
             e.preventDefault();
@@ -38,16 +34,13 @@ SC.initialize({
             sound.stop();
           });
  
- 
-     });
+      });
    }); 
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
+   
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/34581593',function(sound){
+    SC.stream('/tracks/345815930',function(sound){
         //function start
         $('#jodhaa').click(function(e) {
             e.preventDefault();
@@ -62,13 +55,11 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
+   
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/28544446',function(sound){
+    SC.stream('/tracks/286577810',function(sound){
         //function start
         $('#remo').click(function(e) {
             e.preventDefault();
@@ -83,13 +74,11 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
+   
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/31796988',function(sound){
+    SC.stream('/tracks/226881182',function(sound){
         //function start
         $('#naanum').click(function(e) {
             e.preventDefault();
@@ -104,13 +93,10 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
-
+   
   $(document).ready(function() { 
       
-    SC.stream('/tracks/11201079',function(sound){
+    SC.stream('/tracks/112010796',function(sound){
         //function start
         $('#david').click(function(e) {
             e.preventDefault();
@@ -125,13 +111,11 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
+   
 
   $(document).ready(function() { 
       
-    SC.stream('/tracks/68982672',function(sound){
+    SC.stream('/tracks/689826721',function(sound){
         //function start
         $('#kappan').click(function(e) {
             e.preventDefault();
@@ -146,13 +130,10 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
-
+   
   $(document).ready(function() { 
       
-    SC.stream('/tracks/16098608',function(sound){
+    SC.stream('/tracks/160986082',function(sound){
         //function start
         $('#yaan').click(function(e) {
             e.preventDefault();
@@ -167,13 +148,10 @@ SC.initialize({
  
      });
    });   
-   SC.initialize({
-    client_id: '340f063c670272fac27cfa67bffcafc4'
-  });
-
+  
   $(document).ready(function() { 
       
-    SC.stream('/tracks/99649312',function(sound){
+    SC.stream('/tracks/319213252',function(sound){
         //function start
         $('#anniyan').click(function(e) {
             e.preventDefault();
